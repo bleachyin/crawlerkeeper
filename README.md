@@ -23,7 +23,7 @@
  
 # Document
 ![image](http://image.box.xiaomi.com/mfsv2/download/s010/p01blhfKGYR3/uzw18E7TrejVkA.jpg)
-###auth & report to bug [dongchenxi@xiaomi.com](http://image.box.xiaomi.com/mfsv2/download/s010/p01blhfKGYR3/uzw18E7TrejVkA.jpg)
+###Auth & Bug Report [dongchenxi@xiaomi.com](http://image.box.xiaomi.com/mfsv2/download/s010/p01blhfKGYR3/uzw18E7TrejVkA.jpg)
 
 
 ----------
