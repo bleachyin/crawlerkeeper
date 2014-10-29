@@ -16,13 +16,12 @@ Description
  * [thrift-0.9,1](http://thrift.apache.org/)
  * [zookeeper](http://zookeeper.apache.org/)
  
-
  ```javascript
  root@root:~# tar -xzvf crawlerkeeper.tar.gz
  root@root:~# cd crawlerkeeper
  root@root:~# sudo python setup.py install
  ```
----------
-Document
-
-sadasd
+ 
+# Document
+----------
+.. image:: https://secure.travis-ci.org/kiddouk/redisco.png?branch=master
