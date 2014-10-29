@@ -3,8 +3,7 @@
 
 ###A monitor of crawler write by [python](http://www.python.org/)
 
----------
-Description
+# Description
 
 - CrawlerKeeper是基于zookeeper以及thrift实现的python爬虫监控框架
 
@@ -24,7 +23,8 @@ Description
  
 # Document
 ![image](http://image.box.xiaomi.com/mfsv2/download/s010/p01blhfKGYR3/uzw18E7TrejVkA.jpg)
-auth & report to bug [dongchenxi@xiaomi.com](http://image.box.xiaomi.com/mfsv2/download/s010/p01blhfKGYR3/uzw18E7TrejVkA.jpg)
+###auth & report to bug 
+[dongchenxi@xiaomi.com](http://image.box.xiaomi.com/mfsv2/download/s010/p01blhfKGYR3/uzw18E7TrejVkA.jpg)
 
 
 ----------
