@@ -24,4 +24,4 @@ Description
  
 # Document
 ----------
-.. image:: https://secure.travis-ci.org/kiddouk/redisco.png?branch=master
+ ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
