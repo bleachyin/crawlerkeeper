@@ -8,6 +8,7 @@
 - CrawlerKeeper是基于zookeeper以及thrift实现的python爬虫监控框架
 
 - CrawlerKeeper底层是基于thrift的rpc接口进行通信,当爬虫通过zookeeper注册节点被服务端获取并且响应后，爬虫客户端会根据服务器端在zookeeper注册节点内的thriftserver信息(ip地址以及端口号)生成相应的thriftclient,同时每个爬虫客户端生成一个 thriftserver, crawlercenter则会针对每个注册的爬虫客户端生成对应的thriftclient,从而达到双向通信的目的。
+- 可视化系统详见 [CrawlerCenter](https://github.com/bleachyin/crawlercenter)
 
 # Installation
 
