@@ -24,4 +24,8 @@ Description
  
 # Document
 ----------
- ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+ ![image](http://image.box.xiaomi.com/mfsv2/download/s010/p01HYtmMj49e/g0DcsHAxyqvKSF.png)
+ ![image](http://image.box.xiaomi.com/mfsv2/download/s010/p01nu0ccKWdA/soPspvseEROHHd.png)
+ ![image](http://image.box.xiaomi.com/mfsv2/download/s010/p01UnrOoUv9T/QMUEBIfXcjtjb7.png)
+ ![image](http://image.box.xiaomi.com/mfsv2/download/s010/p01AaHTB8kQ3/kMV5ng7A7BtK8J.png)
+ 
